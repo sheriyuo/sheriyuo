@@ -1,8 +1,8 @@
 # Hi 👋 sheriyuo here.
 
-- other nickname: disangan233 (dsg)
-- OIer / ACMer
-- Major in Computer Science, [🏫 RUC](https://www.ruc.edu.cn/) (2022 - 2026)
+- 📶Other nickname: disangan233 (dsg)
+- ✅OIer / ACMer, Codeforces: [disangan233]
+- 🔰Major in Computer Science, [🏫 RUC](https://www.ruc.edu.cn/) (2022 - 2026)
 
 ![Skills](https://skillicons.dev/icons?i=github,c,cpp,md,git,vscode)
 
