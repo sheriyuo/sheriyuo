@@ -1,6 +1,6 @@
 ### Hi 👋 sheriyuo here.
 
-![Skills](https://skillicons.dev/icons?i=azure,cloudflare,workers,github,c,cpp,cs,html,js,ts,css,sass,php,py,go,md,regex,bash,docker,git,mongodb,mysql,redis,linux,nginx,vim,vscode,express,electron,jquery,nodejs,nestjs,react,vue,wasm)
+![Skills](https://skillicons.dev/icons?i=github,c,cpp,cs,tex,md,git,vscode)
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=sheriyuo&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sheriyuo&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="sheriyuo's GitHub stats" height="185px">
